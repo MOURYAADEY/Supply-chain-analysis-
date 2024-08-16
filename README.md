@@ -30,6 +30,18 @@
 - Collaboration, workspace, access permissions in PowerBi services
 - And more
 
+## Tableau learnt techniques
+
+- Importing data into the tableau desktop.
+- Data cleaning.
+- Creating releationships.
+- creating LOD functions and learning about the data pane.
+- Using Parameters and measures.
+- Using different visuals according to problem statements.
+- Beautiful Dashboard creation.
+
+
+
 ## GitHub 
 
 - Uploading Large size files using GitHub LFS
@@ -37,16 +49,16 @@
 
 ## Business related terms KPI'S to work on
 
-Total Sales(MTD,QTD,YTD)
- Product Wise Sales
- Sales Growth 
- Daily Sales Trend
- State Wise Sales
- Top 5 Store Wise Sales
- Region Wise Sales 
- Total Inventory 
- Inventory Value
- Over stock, Out Stock , Under stock
+ - Total Sales(MTD,QTD,YTD).
+ - Product Wise Sales.
+ - Sales Growth.
+ - Daily Sales Trend.
+ - State Wise Sales.
+ - Top 5 Store Wise Sales.
+ - Region Wise Sales.
+ - Total Inventory.
+ - Inventory Value.
+ - Over stock, Out Stock , Under stock.
 
 
 
